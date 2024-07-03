@@ -9,6 +9,7 @@ Habilidades desenvolvidas:
 - Funções
 - Manipulação de Arrays
 - Interação com o DOM usando querySelector e innerHTML 
+- Operador ternário
 
 
 
